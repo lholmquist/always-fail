@@ -1,6 +1,6 @@
 {
   "name": "@lholmquist/always-fail",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A postinstall that will always error",
   "bin": {
     "fail": "bin/cli"
