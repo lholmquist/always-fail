@@ -1,0 +1,15 @@
+{
+  "name": "@lholmquist/always-fail",
+  "version": "1.0.0",
+  "description": "A postinstall that will always error",
+  "bin": {
+    "fail": "bin/cli"
+  },
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node bin/cli",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
