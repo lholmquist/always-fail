@@ -1,5 +1,5 @@
 {
-  "name": "@lholmquist/always-fail",
+  "name": "@nodeshift/always-fail",
   "version": "0.0.2",
   "description": "A postinstall that will always error",
   "bin": {
